@@ -10,9 +10,9 @@
 <style>
     @font-face {
         font-family: 'Story-Script';
-        src: url('fonts/StoryScript-Regular.ttf') format('truetype'),
-            url('fonts/StoryScript-Regular.woff') format('woff'),
-            url('fonts/StoryScript-Regular.woff2') format('woff2');
+        src: url('Fonts/StoryScript-Regular.ttf') format('truetype'),
+            url('Fonts/StoryScript-Regular.woff') format('woff'),
+            url('Fonts/StoryScript-Regular.woff2') format('woff2');
     }
     body{
     background-color: #f3f3f3;
